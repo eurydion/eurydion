@@ -1,15 +1,10 @@
 <h1 align="center">Hey, I'm Eurydion 👋</h1>
-<h3 align="center">Game Developer • Builder of Worlds • Ship-It-And-See Kind of Dev</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=6%2B+years+turning+coffee+into+code;10M%2B+players+have+clicked+Play;300%2B+commissions+shipped+and+counting;Currently+building+something+new..." alt="Typing SVG" />
-</p>
-
+<h3 align="center">Game • Websites • Systems </h3>
 ---
 
 ### 🧙 About Me
 
-I'm a developer who's spent the last **6 years** in the trenches of game development — scripting systems, chasing bugs, and occasionally arguing with a physics engine at 2AM. Somewhere along the way, players started showing up. A *lot* of them.
+I'm a **Roblox full-stack game developer** with **6+ years** of scripting experience — building scalable, future-proof systems, chasing bugs, and occasionally arguing with a physics engine at 2AM. Somewhere along the way, players started showing up. A *lot* of them.
 
 ```
 class Eurydion(Developer):
@@ -43,9 +38,9 @@ class Eurydion(Developer):
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Studio-black?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -58,27 +53,12 @@ Over **300 commissions** completed for clients across the game dev community —
 
 **Currently open for new commissions?** → Reach out below 👇
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eurydion&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eurydion&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurydion&layout=compact&theme=radical&hide_border=true" width="50%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://eurydion.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Eurydion" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/eurydion" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
